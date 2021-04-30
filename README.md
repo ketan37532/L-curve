@@ -1,4 +1,4 @@
-# Coine Rule based Localization (CRL)
+# Cosine Rule based Localization (CRL)
 
 
 ## Summary
